@@ -1,5 +1,7 @@
 # test-restaurant
 <h1>Delivery App for Newbies</h1>
+<p>Well this was a kind of quiz project for a Job, it's a quick app that emulates a restaurant delivery app, where you can go as costumer, see the menu and order, it's writen ins PHP with Codeigniter 3, HTML, CSS and JS.</p>
+<strong>Enjoy you PHP newbies!</strong>
 <h4>Install Requirements</h4>
 <ul>
 <li>Web Server with PHP 7.x</li>
